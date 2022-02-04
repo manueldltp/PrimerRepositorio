@@ -1,24 +1,25 @@
-# PrimerRepositorio
-Primer repositorio de prueba con Generation
+# AlgoritmoPrueba
 
-Objetivo
+## Objetivo 
 Solo es una prueba
 
-1. Crear una nueva rama llamada develop
-2. Crear un archivo llamado Prueba.md
-Enumerar los pasos
+## 1. Crear una nueva rama llamada **develop** 
 
-Paso uno
-Paso dos
-Paso tres
+## 2. Crear un archivo llamado Prueba.md
 
-3. Realizar el commit para revisión.
+Enumerar los pasos 
+1. Paso uno
+2. Paso dos
+3. Paso tres
 
-Referencias Markdown
-commonmark.org
+## 3. Realizar el commit para revisión.
 
-makereadme.com
+## Referencias Markdown
+[commonmark.org](https://commonmark.org/help/)
 
-github.com
+[makereadme.com](https://www.makeareadme.com/)
 
-jc Generation
+[github.com](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README-template.md)
+
+
+*jc Generation*
